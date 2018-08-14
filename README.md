@@ -1,2 +1,2 @@
-# BiswaJoraPathshala
-CSE 334 Database Project
+# BiswaJora
+Database 334 project

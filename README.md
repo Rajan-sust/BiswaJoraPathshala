@@ -4,7 +4,7 @@
 
 ```
 git clone https://github.com/Rajan-sust/BiswaJoraPathshala
-cd BiswaJora-Pathshala
+cd BiswaJoraPathshala
 composer install
 npm install
 cp .env.example .env

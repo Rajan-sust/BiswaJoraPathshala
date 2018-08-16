@@ -11,7 +11,7 @@ cp .env.example .env
 php artisan key:generate
 ```
 
-Edit the .env file
+After completing above steps,you have to edit the .env file
 
 ```
 php artisan migrate
